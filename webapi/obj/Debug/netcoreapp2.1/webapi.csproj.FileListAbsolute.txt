@@ -1,0 +1,13 @@
+/Users/alexgiurca/Projects/webapi/webapi/bin/Debug/netcoreapp2.1/webapi.deps.json
+/Users/alexgiurca/Projects/webapi/webapi/bin/Debug/netcoreapp2.1/webapi.runtimeconfig.json
+/Users/alexgiurca/Projects/webapi/webapi/bin/Debug/netcoreapp2.1/webapi.runtimeconfig.dev.json
+/Users/alexgiurca/Projects/webapi/webapi/bin/Debug/netcoreapp2.1/webapi.dll
+/Users/alexgiurca/Projects/webapi/webapi/bin/Debug/netcoreapp2.1/webapi.pdb
+/Users/alexgiurca/Projects/webapi/webapi/obj/Debug/netcoreapp2.1/webapi.csproj.CoreCompileInputs.cache
+/Users/alexgiurca/Projects/webapi/webapi/obj/Debug/netcoreapp2.1/webapi.RazorAssemblyInfo.cache
+/Users/alexgiurca/Projects/webapi/webapi/obj/Debug/netcoreapp2.1/webapi.RazorAssemblyInfo.cs
+/Users/alexgiurca/Projects/webapi/webapi/obj/Debug/netcoreapp2.1/webapi.AssemblyInfoInputs.cache
+/Users/alexgiurca/Projects/webapi/webapi/obj/Debug/netcoreapp2.1/webapi.AssemblyInfo.cs
+/Users/alexgiurca/Projects/webapi/webapi/obj/Debug/netcoreapp2.1/webapi.RazorTargetAssemblyInfo.cache
+/Users/alexgiurca/Projects/webapi/webapi/obj/Debug/netcoreapp2.1/webapi.dll
+/Users/alexgiurca/Projects/webapi/webapi/obj/Debug/netcoreapp2.1/webapi.pdb
