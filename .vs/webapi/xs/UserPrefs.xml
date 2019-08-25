@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A8A85408-35D7-4F2E-A214-6E2C18F68777}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="webapi/Controllers/ValuesController.cs" Line="55" Column="1" />
+      <File FileName="webapi/appsettings.json" Line="1" Column="1" />
+      <File FileName="webapi/Startup.cs" Line="5" Column="36" />
+      <File FileName="webapi/Models/Radios.cs" Line="19" Column="1" />
+      <File FileName="webapi/Models/WebApiContext.cs" Line="14" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webapi" expanded="True" selected="True">
+            <Node name="webapi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.webapi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
