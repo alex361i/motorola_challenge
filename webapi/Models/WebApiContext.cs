@@ -11,5 +11,7 @@ namespace webapi.Models
         }
 
         public DbSet<Radio> Radios { get; set; }
+
+        public DbSet<AllowedLocation> AllowedLocations { get; set; }
     }
 }
