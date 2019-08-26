@@ -15,8 +15,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="webapi" expanded="True" selected="True">
-            <Node name="webapi" expanded="True">
+          <Node name="webapi" expanded="True">
+            <Node name="webapi" expanded="True" selected="True">
               <Node name="Controllers" expanded="True" />
               <Node name="DTO" expanded="True" />
               <Node name="Helpers" expanded="True" />

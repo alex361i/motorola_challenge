@@ -109,7 +109,7 @@ namespace webapi.Controllers
 
                 return NoContent();
             }
-            return BadRequest();
+            return Forbid();
         }
     }
 }
